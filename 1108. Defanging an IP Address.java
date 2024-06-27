@@ -11,7 +11,7 @@ class Solution {
             { 
                 s+=address.charAt(i);   
             } 
-        }
+        }    
         return s;
     }
 }
