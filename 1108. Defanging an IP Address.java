@@ -7,7 +7,7 @@ class Solution {
             {
                 s+="[.]";
             }
-            else
+            else 
             { 
                 s+=address.charAt(i);   
             } 
