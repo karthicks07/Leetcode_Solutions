@@ -10,7 +10,7 @@ class Solution {
             else
             { 
                 s+=address.charAt(i); 
-            }
+            } 
         }
         return s;
     }
